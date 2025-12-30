@@ -25,6 +25,9 @@ VIP Frequency Program: Launch an exclusive "premium tier" to incentivize "Loyal"
 
 High-Value Recovery: Prioritize the "At Risk (High Value)" segment with personalized re-engagement campaigns to prevent the loss of historically high-frequency buyers.
 
+## **How to Use** 🚀
+Clone this repository, place the online_retail.csv file in the same folder as the notebook, and run all cells.
+
 ## **Contact** 📫
 Feel free to connect or reach out with any questions:
 
