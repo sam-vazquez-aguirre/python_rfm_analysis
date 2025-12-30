@@ -18,7 +18,8 @@ This project focuses on identifying high-value customers and churn risks within 
 **RFM Metrics**: Custom scoring (1-5) to categorize customers into 8 distinct business segments.
 
 ## **Visualizations** 📊
-You can explore the interactive version of the dashboard here: ((coming soon)).
+You can explore the interactive version of the dashboard here:
+https://public.tableau.com/app/profile/samuel.vazquez.aguirre/viz/rfm_analysis_and_customer_segmentation/rfm_analysis_customer_segmentation?publish=yes
 
 ## **Strategic Recommendations** 💡
 VIP Frequency Program: Launch an exclusive "premium tier" to incentivize "Loyal" customers (7 orders) to reach the 19-order milestone.
