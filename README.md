@@ -25,6 +25,16 @@ VIP Frequency Program: Launch an exclusive "premium tier" to incentivize "Loyal"
 
 High-Value Recovery: Prioritize the "At Risk (High Value)" segment with personalized re-engagement campaigns to prevent the loss of historically high-frequency buyers.
 
+## **Prerequisites & Data** 📦
+Due to file size limitations on GitHub, the raw dataset (online_retail.csv) is not included in this repository.
+To run this analysis:
+
+Download the dataset from: https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset
+
+Place the file in the root directory of the project.
+
+Run the notebook.
+
 ## **How to Use** 🚀
 Clone this repository, place the online_retail.csv file in the same folder as the notebook, and run all cells.
 
